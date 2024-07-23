@@ -1,0 +1,18 @@
+{
+  "name": "dnull",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "tsc && node --experimental-websocket .",
+    "tsc": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.8",
+    "discord-api-types": "^0.37.83",
+    "typescript": "^5.4.5"
+  }
+}

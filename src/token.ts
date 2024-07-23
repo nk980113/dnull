@@ -1,0 +1,1 @@
+export const token = 'Bot ' + 'Paste token from discord developer portal here';
